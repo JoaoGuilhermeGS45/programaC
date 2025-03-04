@@ -2,7 +2,7 @@
 
     int main(){
 
-        //É a minha primeira tentativa, espero que tenha ficado bom -_-
+        //É a minha primeira tentativa, espero que tenha ficado bom  -_-
 
         char Estado;
         char Codigo[5];
