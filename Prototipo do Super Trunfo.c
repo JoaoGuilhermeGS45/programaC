@@ -16,31 +16,24 @@
 
         printf("Digite a Letra do Estado:\n");
         scanf(" %c", &Estado);
-        getchar();
 
         printf("Digite o Codigo da Carta:\n");
         scanf("%s", Codigo);
-        getchar();
 
         printf("Digite o Nome da Cidade:\n");
         scanf("%s", Nome);
-        getchar();
 
         printf("Digite o Número da População:\n");
         scanf("%d", &Populacao);
-        getchar();
 
         printf("Digite a Área da Cidade:\n");
         scanf("%f", &Area);
-        getchar();
 
         printf("Digite o PIB:\n");
         scanf("%f", &PIB);
-        getchar();
 
         printf("Digite o Número de Pontos Turísticos:\n");
         scanf("%d", &Numero);
-        getchar();
         
         printf("\nCarta: 01\n");
         printf("Estado: %c\n",Estado);
@@ -56,31 +49,24 @@
 
         printf("Digite a Letra do Estado:\n");
         scanf(" %c", &Estado);
-        getchar();
 
         printf("Digite o Codigo da Carta:\n");
         scanf("%s", Codigo);
-        getchar();
 
         printf("Digite o Nome da Cidade:\n");
         scanf("%s", Nome);
-        getchar();
 
         printf("Digite o Número da População:\n");
         scanf("%d", &Populacao);
-        getchar();
 
         printf("Digite a Área da Cidade:\n");
         scanf("%f", &Area);
-        getchar();
 
         printf("Digite o PIB:\n");
         scanf("%f", &PIB);
-        getchar();
 
         printf("Digite o Número de Pontos Turísticos:\n");
         scanf("%d", &Numero);
-        getchar();
 
         printf("\nCarta: 02\n");
         printf("Estado: %c\n",Estado);
